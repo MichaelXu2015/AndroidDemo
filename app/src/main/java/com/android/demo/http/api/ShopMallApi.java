@@ -21,14 +21,6 @@ import retrofit2.http.Path;
 public interface ShopMallApi {
 
 
-
-
-
-
-
-
-
-
     /**
      * 登录
      * @return
